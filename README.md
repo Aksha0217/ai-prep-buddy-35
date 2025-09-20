@@ -32,9 +32,7 @@ AI Prep Buddy is a modern, responsive web application designed to help users pre
  
 ## ?? Installation 
  
-\`\`\`bash 
-# Clone the repository 
-git clone https://github.com/Aksha0217/ai-prep-buddy-35.git 
+
  
 # Navigate to project directory 
 cd ai-prep-buddy-35 
@@ -68,4 +66,4 @@ This project is licensed under the MIT License.
 ## ?? Contact 
  
 - GitHub: [@Aksha0217](https://github.com/Aksha0217) 
-- Project Link: [https://github.com/Aksha0217/ai-prep-buddy-35](https://github.com/Aksha0217/ai-prep-buddy-35) 
+- Project Link: https://68cef27e404337e370759e41--resonant-gaufre-97a5fe.netlify.app/ 
